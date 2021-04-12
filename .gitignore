@@ -13,3 +13,5 @@ instance/*
 __pycache__/
 *.py[cod]
 *$py.class
+
+w2vec_wiki_id_300.txt

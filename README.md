@@ -6,12 +6,15 @@ API Service for DEpressive Personality Test Apps. A web application to detect de
 ## Install requirements
 
 `cd dept-api`
+
 `pip install -r requirements.txt`
 
 ## Database Migration
 
 `flask db init`
+
 `flask db migrate`
+
 `flask db upgrade`
 
 ## Run
